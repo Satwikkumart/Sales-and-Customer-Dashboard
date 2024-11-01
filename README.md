@@ -28,8 +28,8 @@ Illustrates customer engagement by segmenting customers based on their order fre
 
 **Top 10 Customers by Profit:** 
 Highlights the top 10 customers by profit generated, with details on rank, order count, current sales, profit, and last order date.
-**Design & Interactivity:
-**
+**Design & Interactivity:**
+
 **Dynamic Data Access:** 
 Users can select any year to view historical data, allowing for comprehensive trend analysis.
 
