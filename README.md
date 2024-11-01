@@ -28,6 +28,8 @@ Illustrates customer engagement by segmenting customers based on their order fre
 
 **Top 10 Customers by Profit:** 
 Highlights the top 10 customers by profit generated, with details on rank, order count, current sales, profit, and last order date.
+
+
 **Design & Interactivity:**
 
 **Dynamic Data Access:** 
@@ -38,6 +40,7 @@ Integrated navigation enables users to switch smoothly between dashboards.
 
 **Interactive Elements:** 
 Charts and graphs are fully interactive, allowing data filtering directly through visual elements.
+
 **Filter Options:** 
 Users can filter data by product details, such as category and subcategory, as well as by location information, including region, state, and city.
 
